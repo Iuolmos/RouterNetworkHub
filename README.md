@@ -1,2 +1,37 @@
-# RouterNetworkHub
-Convierte tu Pc en un swich de red
+RouterNetworkHub
+
+Script para gestionar redes de manera sencilla. Permite automatizar tareas comunes de administración y monitoreo, ideal para desarrolladores y administradores de red.
+
+Instalación
+
+Clona el repositorio:
+
+git clone https://github.com/Iuolmos/RouterNetworkHub.git
+
+
+Entra en la carpeta del proyecto:
+
+cd RouterNetworkHub
+
+
+Dar permisos de ejecución a toda la carpeta:
+
+chmod -R +x .
+
+
+Configura la IP de la máquina y el puerto que deseas usar (por ejemplo, 5050).
+Esto puede hacerse dentro del script app.py o mediante un archivo de configuración, según cómo esté diseñado el proyecto.
+
+Uso
+
+Ejecuta el script principal:
+
+./app.py
+
+
+Sigue las instrucciones que aparezcan en la terminal para iniciar el servicio y gestionar la red.
+
+Contribuciones
+
+Puedes sugerir mejoras o reportar errores abriendo un Issue en este repositorio.
+Las contribuciones son bienvenidas, solo asegúrate de seguir buenas prácticas y documentar tus cambios.

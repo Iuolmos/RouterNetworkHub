@@ -35,3 +35,6 @@ Contribuciones
 
 Puedes sugerir mejoras o reportar errores abriendo un Issue en este repositorio.
 Las contribuciones son bienvenidas, solo asegúrate de seguir buenas prácticas y documentar tus cambios.
+
+Donacioness a https://buy.stripe.com/test_5kQdR95gcddje1K6q78Ra00 
+Min 0,5 EUR Max 50,00 EUR

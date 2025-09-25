@@ -19,8 +19,8 @@ Dar permisos de ejecución a toda la carpeta:
 chmod -R +x .
 
 
-Configura la IP de la máquina y el puerto que deseas usar (por ejemplo, 5050).
-Esto puede hacerse dentro del script app.py o mediante un archivo de configuración, según cómo esté diseñado el proyecto.
+Configura la IP de la máquina y el puerto que deseas usar para la configuracion de puertos (por ejemplo, 5050).
+Esto puede hacerse dentro del script main.py.
 
 Uso
 

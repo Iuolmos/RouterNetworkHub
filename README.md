@@ -36,4 +36,4 @@ Contribuciones
 Puedes sugerir mejoras o reportar errores abriendo un Issue en este repositorio.
 Las contribuciones son bienvenidas, solo asegúrate de seguir buenas prácticas y documentar tus cambios.
 
-Donacioness a 
+Donacioness a https://www.paypal.com/ncp/payment/UA68T73X9BT6S 
